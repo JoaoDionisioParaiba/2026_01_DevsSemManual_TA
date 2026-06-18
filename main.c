@@ -16,8 +16,8 @@ int main() {
     // int resultado_soma = somar(10, 5);
     // printf("Soma (10 + 5): %d\n", resultado_soma);
 
-    // int resultado_subtracao = subtrair(20, 8);
-    // printf("Subtracao (20 - 8): %d\n", resultado_subtracao);
+     int resultado_subtracao = subtrair(20, 8);
+     printf("Subtracao (20 - 8): %d\n", resultado_subtracao);
 
     // int resultado_multiplicacao = multiplicar(7, 6);
     // printf("Multiplicacao (7 * 6): %d\n", resultado_multiplicacao);
